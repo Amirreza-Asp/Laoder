@@ -46,3 +46,7 @@ body {
 .loader-percent-icon {
   font-size: 0.75em;
 }
+
+.loader-content {
+  font-style: italic;
+}
