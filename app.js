@@ -20,7 +20,7 @@ function SetColor() {
 function ChangePercentStyles() {
   let width = loader.getAttribute("data-width");
   loaderPercent.setAttribute("style", `font-size:calc(${width} / 5);`);
-  loaderContent.setAttribute("style", `font-size:calc(${width} / 13);`);
+  loaderContent.setAttribute("style", `font-size:calc(${width} / 16);`);
 }
 
 function AddLoaderCircleWidth() {
